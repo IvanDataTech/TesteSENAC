@@ -3,7 +3,7 @@ ingresso = (input("Tem ingresso? (Sim/Não)"))
 
 if aniversariante == "Sim":
     aniversariante = True
-else: 
+else:
     aniversariante = False
 if ingresso == "Sim":
     ingresso = True
